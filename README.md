@@ -1,5 +1,6 @@
 <p align="center">
  <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
+ <a href="https://github.com/leandrocunha526/ecoleta/actions/workflows/continuous-integration.yml"><img src="https://github.com/leandrocunha526/ecoleta/actions/workflows/continuous-integration.yml/badge.svg"></a>
 </p>
 
 <h3 align="center">
