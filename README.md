@@ -51,7 +51,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 2. Para executar a aplicação:
 
-- Instalar dependências: ```npm install``
+- Instalar dependências: ```npm install```
 - Rodar a aplicação: ```npm start```
 
 ## Como contribuir
