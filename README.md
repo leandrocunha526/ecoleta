@@ -6,7 +6,7 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src=".github/images/logo.png">
 	<br/>	
-	<b>Recicle! ajude o meio ambiente!</b>
+	<b>Recicle! Ajude o meio ambiente!</b>
 </h3>
 
 ## Sobre
