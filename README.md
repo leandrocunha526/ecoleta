@@ -49,28 +49,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   $ git clone https://github.com/leandrocunha526/ecoleta.git
 ```
 
-2. Executando a Aplicação:
+2. Para executar a aplicação:
 
-```sh
-  # Instale as dependências
-  $ npm install
-
-  ## Crie o banco de dados
-  $ cd server
-  $ npm run knex:migrate
-  $ npm run knex:seed
-
-  # Inicie a API
-  $ npm run dev
-
-  # Inicie a aplicação web
-  $ cd web
-  $ npm start
-
-  # Inicie a aplicação mobile
-  $ cd mobile
-  $ npm start
-```
+- Instalar dependências: ```npm install``
+- Rodar a aplicação: ```npm start```
 
 ## Como contribuir
 
